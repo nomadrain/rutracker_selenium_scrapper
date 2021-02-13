@@ -1,4 +1,4 @@
-# rutracker_selenium_scrapper
+## rutracker_selenium_scrapper
 Scrapping the rutracker torrents tracker using Python selenium and BeautifulSoup
 
 # Install and configure
