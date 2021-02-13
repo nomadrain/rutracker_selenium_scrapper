@@ -32,6 +32,7 @@ rutrackerpass = 'userpass'
 
 Run the application and examine the new files:
 ```
+python ./rutracker.py
 rutracker_search_result.html
 all_2021_rutracker_moview.json
 ```
