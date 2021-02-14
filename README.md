@@ -1,5 +1,5 @@
 # Scrapping example for the Rutracker
-Scrapping the rutracker torrents tracker using Python selenium and BeautifulSoup
+Scrapping the rutracker torrents tracker using Python selenium and BeautifulSoup. Works in headless mode (without brouser window) and can be used without graphic display.
 
 ## Requirements
 - Python3
