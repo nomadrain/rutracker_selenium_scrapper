@@ -24,6 +24,8 @@ def main():
     useragent = UserAgent()
     options = webdriver.ChromeOptions()
     options.add_argument(f"user-agent={useragent.chrome}")
+    options.headless = True
+    
     try:
         thepage = ''
         browser = webdriver.Chrome(executable_path="./chrome/chromedriver", options=options)
